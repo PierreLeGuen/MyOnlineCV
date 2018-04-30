@@ -435,9 +435,6 @@ header.header-area.is-sticky {
     -webkit-transition: 0.4s;
     transition: 0.4s;
 }
-.is-sticky .mainmenu.navbar {
-    padding: 0 0;
-}
 .logo {
     max-height: 100px;
     max-width: 300px;
@@ -571,6 +568,10 @@ section.banner-area {
 
 .short-info h3 {
     margin-bottom: 30px;
+}
+
+b.thick{
+   font-weight: 900;
 }
 
 .short-info ul {

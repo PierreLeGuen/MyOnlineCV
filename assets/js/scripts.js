@@ -385,7 +385,7 @@ jQuery(function ($) {
     // -------------------------------------------------------------
 
     (function () {
-        var myLatlng = new google.maps.LatLng(41.372641, -74.687387);
+            var myLatlng = new google.maps.LatLng(47.2172500, -1.5533600);
 
             var styles = [
                 {
@@ -419,7 +419,7 @@ jQuery(function ($) {
             ];
 
             var mapOptions = {
-                zoom: 15,
+                zoom: 10,
                 scrollwheel: false,
                 center: myLatlng,
                 mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -436,9 +436,9 @@ jQuery(function ($) {
                 title: 'Hello World!'
             });
 
-            var contentString = '' +
-                    '' +
-                    '';
+            var contentString = 'AZE' +
+                    '546' +
+                    'uyrt';
 
             var infowindow = new google.maps.InfoWindow({
                 content: contentString
