@@ -4,7 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="447" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="23c5b92e-13a7-4d30-9be9-40d67f7ac0c0" name="Default" comment="" />
+=======
+    <list default="true" id="23c5b92e-13a7-4d30-9be9-40d67f7ac0c0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/images/home-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/home-bg.jpg" afterDir="false" />
+    </list>
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +23,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="21">
               <caret line="185" column="52" selection-start-line="185" selection-start-column="52" selection-end-line="185" selection-end-column="52" />
+=======
+            <state relative-caret-position="525">
+              <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -35,7 +46,11 @@
       <file leaf-file-name="simple.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/email-templates/simple.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1785">
+=======
+            <state relative-caret-position="1275">
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
               <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
             </state>
           </provider>
@@ -44,7 +59,11 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="14490">
+=======
+            <state relative-caret-position="10350">
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
               <caret line="690" column="27" selection-start-line="690" selection-start-column="27" selection-end-line="690" selection-end-column="27" />
             </state>
           </provider>
@@ -169,13 +188,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/assets/js" />
-      <recent name="$PROJECT_DIR$/assets/images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -204,15 +223,23 @@
       <workItem from="1523731010831" duration="56000" />
       <workItem from="1523964881902" duration="3411000" />
       <workItem from="1525075955971" duration="16318000" />
+<<<<<<< HEAD
       <workItem from="1525252334536" duration="22000" />
+=======
+      <workItem from="1525631060534" duration="2198000" />
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="23893000" />
+=======
+    <option name="totallyTimeSpent" value="26069000" />
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="30" width="1920" height="1050" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15729167" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -220,12 +247,18 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
+<<<<<<< HEAD
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Favorites" order="2" side_tool="true" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -244,7 +277,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="3885">
+=======
+        <state relative-caret-position="1725">
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
           <caret line="185" column="52" selection-start-line="185" selection-start-column="52" selection-end-line="185" selection-end-column="52" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -260,14 +297,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/email-templates/simple.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1785">
+=======
+        <state relative-caret-position="1275">
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
           <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="14490">
+=======
+        <state relative-caret-position="10350">
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
           <caret line="690" column="27" lean-forward="true" selection-start-line="690" selection-start-column="27" selection-end-line="690" selection-end-column="27" />
         </state>
       </provider>
@@ -372,14 +417,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/email-templates/simple.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1785">
+=======
+        <state relative-caret-position="1275">
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
           <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="14490">
+=======
+        <state relative-caret-position="10350">
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
           <caret line="690" column="27" selection-start-line="690" selection-start-column="27" selection-end-line="690" selection-end-column="27" />
         </state>
       </provider>
@@ -393,8 +446,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="21">
           <caret line="185" column="52" selection-start-line="185" selection-start-column="52" selection-end-line="185" selection-end-column="52" />
+=======
+        <state relative-caret-position="525">
+          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+>>>>>>> 63966ec50b58969d11bd9682fd79793cd4124bbb
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
