@@ -209,7 +209,7 @@ jQuery(function ($) {
 
     $(function() {
         typed.typed({
-            strings: ["Pierre Le Guen.", "Développeur.", "étudiant.", "Passionné."],
+            strings: ["Pierre Le Guen.", "Étudiant.", "Freelancer."],
             typeSpeed: 100,
             loop: true,
         });
