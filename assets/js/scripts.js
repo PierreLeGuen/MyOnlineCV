@@ -192,6 +192,8 @@ jQuery(function ($) {
 
     $('.servicesH-carousel').owlCarousel({
         autoplay: true,
+        autoplayTimeout:7000,
+        autoplayHoverPause:false,
         loop: true,
         margin: 20,
         dots: true,
