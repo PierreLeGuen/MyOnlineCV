@@ -435,12 +435,10 @@ jQuery(function ($) {
                 position: myLatlng,
                 map: map,
                 animation: google.maps.Animation.DROP,
-                title: 'Hello World!'
+                title: 'Hello Nantes!'
             });
 
-            var contentString = 'AZE' +
-                    '546' +
-                    'uyrt';
+            var contentString = 'Hello Nantes !';
 
             var infowindow = new google.maps.InfoWindow({
                 content: contentString
