@@ -1,2 +1,3 @@
-# My future online CV
-Work in progress
+# My personnal CV website
+* Built with Bootstrap;
+* Documentation is coming.
