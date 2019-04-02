@@ -126,27 +126,6 @@ jQuery(function ($) {
         });
     }());
 
-
-    // -------------------------------------------------------------
-    // Countup
-    // -------------------------------------------------------------
-    $('.count-wrap').bind('inview', function(event, visible, visiblePartX, visiblePartY) {
-        if (visible) {
-            $(this).find('.timer').each(function () {
-                var $this = $(this);
-                $({ Counter: 0 }).animate({ Counter: $this.text() }, {
-                    duration: 2000,
-                    easing: 'swing',
-                    step: function () {
-                        $this.text(Math.ceil(this.Counter));
-                    }
-                });
-            });
-            $(this).unbind('inview');
-        }
-    });
-
-
     // -------------------------------------------------------------
     // Progress Bar
     // -------------------------------------------------------------
@@ -396,21 +375,10 @@ jQuery(function ($) {
                         { color: '#f7f7f7' }
                     ]
                 },{
-                    featureType: "natural",
-                    stylers: [
-                        { hue: '#00ffe6' }
-                    ]
-                },{
                     featureType: "road",
                     stylers: [
                         { hue: '#fff' },
                         { saturation: -70 }
-                    ]
-                },{
-                    featureType: "building",
-                    elementType: "labels",
-                    stylers: [
-                        { hue: '' }
                     ]
                 },{
                     featureType: "poi", //points of interest
